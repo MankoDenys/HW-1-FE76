@@ -104,9 +104,9 @@ var memory = [{
         }
         
     }
-    if (+phone !== memory[i].ram && phoneColor !== memory[i].color) {
-      document.write("Phone not found");
+    // if (+phone !== memory[i].ram && phoneColor !== memory[i].color) {
+    //   document.write("Phone not found");
      
-      }
+    //   }
    
     
